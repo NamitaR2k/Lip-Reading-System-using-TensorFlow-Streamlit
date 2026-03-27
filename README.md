@@ -4,7 +4,7 @@ This project is a Lip Reading System that uses Deep Learning (TensorFlow) to pre
 
 ### Tech Stack
 #### Python
-#### TensorFlow / Keras
+#### TensorFlow
 #### OpenCV
 #### NumPy
 #### Streamlit
